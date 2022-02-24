@@ -1,2 +1,2 @@
 # DAA-Course
-Design and Analysis of Algorithms - BMU - Batch 2019
+Design and Analysis of Algorithms - BMU - Batch 2019, 2020.
